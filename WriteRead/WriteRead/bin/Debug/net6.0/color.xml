@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomColor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomColor>
+    <red>0</red>
+    <green>0</green>
+    <blue>0</blue>
+    <alpha>0</alpha>
+    <name>High Contrast</name>
+  </CustomColor>
+  <CustomColor>
+    <red>1</red>
+    <green>1</green>
+    <blue>1</blue>
+    <alpha>1</alpha>
+    <name>Low Contrast</name>
+  </CustomColor>
+  <CustomColor>
+    <red>2</red>
+    <green>2</green>
+    <blue>2</blue>
+    <alpha>2</alpha>
+    <name>Current Color</name>
+  </CustomColor>
+</ArrayOfCustomColor>

@@ -1,0 +1,15 @@
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.csproj.AssemblyReference.cache
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.AssemblyInfoInputs.cache
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.AssemblyInfo.cs
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.csproj.CoreCompileInputs.cache
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\bin\Debug\net6.0\WriteRead.exe
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\bin\Debug\net6.0\WriteRead.deps.json
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\bin\Debug\net6.0\WriteRead.runtimeconfig.json
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\bin\Debug\net6.0\WriteRead.dll
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\bin\Debug\net6.0\WriteRead.pdb
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.dll
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\refint\WriteRead.dll
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.pdb
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\WriteRead.genruntimeconfig.cache
+C:\Users\elias.nimlandlind\source\repos\WriteRead\WriteRead\obj\Debug\net6.0\ref\WriteRead.dll
